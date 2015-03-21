@@ -1,0 +1,16 @@
+D:\gUrU\program\CameraApp\CameraApp\bin\Debug\CameraApp.exe
+D:\gUrU\program\CameraApp\CameraApp\bin\Debug\CameraApp.pdb
+D:\gUrU\program\CameraApp\CameraApp\obj\Debug\ResolveAssemblyReference.cache
+D:\gUrU\program\CameraApp\CameraApp\obj\Debug\CameraApp.Properties.Resources.resources
+D:\gUrU\program\CameraApp\CameraApp\obj\Debug\CameraApp.csproj.GenerateResource.Cache
+D:\gUrU\program\CameraApp\CameraApp\obj\Debug\CameraApp.exe
+D:\gUrU\program\CameraApp\CameraApp\obj\Debug\CameraApp.pdb
+D:\gUrU\program\CameraApp\CameraApp\obj\Debug\CameraApp.Form1.resources
+C:\Users\Octave\Downloads\CameraApp\CameraApp\CameraApp\obj\Debug\CameraApp.exe
+C:\Users\Octave\Downloads\CameraApp\CameraApp\CameraApp\obj\Debug\CameraApp.pdb
+C:\Users\Octave\Downloads\CameraApp\CameraApp\CameraApp\bin\Debug\CameraApp.exe
+C:\Users\Octave\Downloads\CameraApp\CameraApp\CameraApp\bin\Debug\CameraApp.pdb
+C:\Users\Octave\Downloads\CameraApp\CameraApp\CameraApp\obj\Debug\CameraApp.csprojResolveAssemblyReference.cache
+C:\Users\Octave\Downloads\CameraApp\CameraApp\CameraApp\obj\Debug\CameraApp.Form1.resources
+C:\Users\Octave\Downloads\CameraApp\CameraApp\CameraApp\obj\Debug\CameraApp.Properties.Resources.resources
+C:\Users\Octave\Downloads\CameraApp\CameraApp\CameraApp\obj\Debug\CameraApp.csproj.GenerateResource.Cache
